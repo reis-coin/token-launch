@@ -1,0 +1,21 @@
+{
+  "accounts": {
+    "account{0}": "0x6d03a473081a48f50f70be0356f0afea6f0966dd"
+  },
+  "linkReferences": {},
+  "transactions": [
+    {
+      "timestamp": 1772821090102,
+      "record": {
+        "value": "5",
+        "inputs": "()",
+        "parameters": [],
+        "name": "renounceOwnership",
+        "type": "function",
+        "to": "created{undefined}",
+        "from": "account{0}"
+      }
+    }
+  ],
+  "abis": {}
+}
